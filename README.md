@@ -6,4 +6,4 @@ This is first version, still unstable but working
 
 Look in wiki for whole work and windows build
 
-![Izgled Programa](NaModelApp/Slika1IzgledPrograma.png)
+![Izgled Programa](https://github.com/bogibaraba/NaModelApp/blob/master/Slika1IzgledPrograma.png)
