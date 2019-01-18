@@ -5,7 +5,7 @@ First Version, stable
 usage manual in serbian, but it tries to conform app notes
 Look in wiki for whole work and windows build
 
-Try
+Linux build in work
 
 ![Izgled Programa](https://github.com/bogibaraba/NaModelApp/blob/master/images/slikeZaUputstvo/Slika1IzgledPrograma.png)
 
