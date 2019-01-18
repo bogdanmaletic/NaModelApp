@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="SmithPix">Smith_chart_gen.svg</file>
+        <file alias="qtLogo">qt_logo_green_rgb_whitespace.png</file>
+    </qresource>
+</RCC>
