@@ -2,7 +2,7 @@
 Network Analyzer Simulator (Agilent E5062A based) Qt 
 
 * Windows build with vc++ redist library packaged
-[windows build with redist packaged](https://drive.google.com/file/d/1vnXd0lJBAUynIuNpY8euwQLCUenorjk3/view?usp=sharing)
+[windows build with redist packaged](https://github.com/bogibaraba/NaModelApp/releases/download/0.1/deployWithRedist.7z)
 
 !!!Important if windows build during startup raport missing dll. Install VC++ redist lib first
 
